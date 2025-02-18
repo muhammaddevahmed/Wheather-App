@@ -57,7 +57,7 @@
   border: none;
   border-radius: 50px;
   font-size: 1.2rem;
-  background: rgba(255, 255, 255, 0.95);
+  background: rgba(60, 52, 52, 0.95);
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
   transition: all 0.3s ease;
 }
@@ -67,7 +67,7 @@
   border: none;
   border-radius: 50px;
   background: linear-gradient(45deg, #23a6d5, #23d5ab);
-  color: white;
+  color: black;
   font-size: 1.2rem;
   cursor: pointer;
   transition: all 0.3s ease;
