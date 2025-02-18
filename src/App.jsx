@@ -101,7 +101,7 @@ const WeatherApp = () => {
       {/* Footer Section */}
       <footer className="footer">
         <p>Made by Muhammad Ahmed</p>
-        <p>&copy; {new Date().getFullYear()} Weather Sphere. All Rights Reserved.</p>
+        <p>&copy; {new Date().getFullYear()} Weather Sphere . All Rights Reserved.</p>
         <p>Contact: m.ahmed.uh72@gmail.com</p>
       </footer>
     </div>
